@@ -1,0 +1,21 @@
+2024/02/26-16:18:14.137 e24 Reusing MANIFEST c:\Users\leona\OneDrive\Documentos\bots\botwpp\tokens\sessionName\Default\Local Storage\leveldb/MANIFEST-000001
+2024/02/26-16:18:14.145 e24 Recovering log #55
+2024/02/26-16:18:14.148 e24 Reusing old log c:\Users\leona\OneDrive\Documentos\bots\botwpp\tokens\sessionName\Default\Local Storage\leveldb/000055.log 
+2024/02/26-19:11:05.354 29b8 Level-0 table #59: started
+2024/02/26-19:11:05.357 29b8 Level-0 table #59: 10958 bytes OK
+2024/02/26-19:11:05.358 29b8 Delete type=0 #55
+2024/02/26-19:11:05.358 29b8 Compacting 4@0 + 1@1 files
+2024/02/26-19:11:05.362 29b8 Generated table #60@0: 109 keys, 6532 bytes
+2024/02/26-19:11:05.362 29b8 Compacted 4@0 + 1@1 files => 6532 bytes
+2024/02/26-19:11:05.362 29b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/26-19:11:05.362 29b8 Delete type=2 #47
+2024/02/26-19:11:05.362 29b8 Delete type=2 #50
+2024/02/26-19:11:05.363 29b8 Delete type=2 #53
+2024/02/26-19:11:05.363 29b8 Delete type=2 #56
+2024/02/26-19:11:05.363 29b8 Delete type=2 #59
+2024/02/26-20:51:14.915 29b8 Level-0 table #62: started
+2024/02/26-20:51:14.920 29b8 Level-0 table #62: 10408 bytes OK
+2024/02/26-20:51:14.921 29b8 Delete type=0 #58
+2024/02/26-23:08:14.908 29b8 Level-0 table #64: started
+2024/02/26-23:08:14.911 29b8 Level-0 table #64: 9739 bytes OK
+2024/02/26-23:08:14.912 29b8 Delete type=0 #61

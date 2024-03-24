@@ -1,0 +1,26 @@
+2024/02/25-20:31:32.669 13c0 Reusing MANIFEST c:\Users\leona\OneDrive\Documentos\bots\botwpp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/25-20:31:32.670 13c0 Recovering log #3158
+2024/02/25-20:31:32.684 13c0 Reusing old log c:\Users\leona\OneDrive\Documentos\bots\botwpp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003158.log 
+2024/02/25-20:31:42.986 fc4 Level-0 table #3164: started
+2024/02/25-20:31:42.993 fc4 Level-0 table #3164: 468930 bytes OK
+2024/02/25-20:31:42.994 fc4 Delete type=0 #3158
+2024/02/25-20:31:42.994 fc4 Manual compaction at level-0 from '\x00g\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00h\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/25-20:31:43.770 13c0 Compacting 1@1 + 2@2 files
+2024/02/25-20:31:43.820 13c0 Generated table #3165@1: 61426 keys, 2330342 bytes
+2024/02/25-20:31:43.842 13c0 Generated table #3166@1: 37603 keys, 765859 bytes
+2024/02/25-20:31:43.842 13c0 Compacted 1@1 + 2@2 files => 3096201 bytes
+2024/02/25-20:31:43.842 13c0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/25-20:31:43.842 13c0 Delete type=2 #3160
+2024/02/25-20:31:43.842 13c0 Delete type=2 #3161
+2024/02/25-20:31:43.842 13c0 Delete type=2 #3164
+2024/02/25-20:40:33.913 2224 Level-0 table #3168: started
+2024/02/25-20:40:33.967 2224 Level-0 table #3168: 1259371 bytes OK
+2024/02/25-20:40:33.968 2224 Delete type=0 #3163
+2024/02/25-20:42:28.684 fc4 Compacting 1@1 + 2@2 files
+2024/02/25-20:42:28.731 fc4 Generated table #3169@1: 61866 keys, 2332682 bytes
+2024/02/25-20:42:28.755 fc4 Generated table #3170@1: 42286 keys, 956553 bytes
+2024/02/25-20:42:28.755 fc4 Compacted 1@1 + 2@2 files => 3289235 bytes
+2024/02/25-20:42:28.755 fc4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/25-20:42:28.756 fc4 Delete type=2 #3165
+2024/02/25-20:42:28.756 fc4 Delete type=2 #3166
+2024/02/25-20:42:28.756 fc4 Delete type=2 #3168
